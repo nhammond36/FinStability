@@ -10,5 +10,5 @@ Net bond purchases by the Federal Reserve can offset government budget surplus s
 
 Different affests on rates and shocks between TOMO, repo sales drain reserves and reverse repo purchases increase reserves, and permanent open market operations POMO
 
-JC: A “fiscal theory of monetary policy” uses active fiscal policy, the government debt valuation equation, in place of active monetary policy, an interest rate rule
- [] {url)
+> JC: A “fiscal theory of monetary policy” uses active fiscal policy, the government debt valuation equation, in place of active monetary policy, an interest rate rule
+This site was built using [GitHub Pages](https://pages.github.com/).
